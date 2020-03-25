@@ -28,8 +28,8 @@ Almost all of my variables were categorical features. I primarily just explored 
 
 I tried out a lot of different model variations - including a lot that aren't necessarily seen here. I tried to keep this area concise, keeping only my more meaningful findings and at least one of each of the types of models I tried.
 
-Anyway, my models are [here](3.%Model%Iterations.ipynb). 
+Anyway, my models are [here](3.%20Model%20Iterations.ipynb). 
 
-Or if sifting through code isn't your thing, feel free to check out my [final presentation](Mod%3%Presentation.pdf) - less reading and code, more photos and bullet points.
+Or if sifting through code isn't your thing, feel free to check out my [final presentation](Mod%203%20Presentation.pdf) - less reading and code, more photos and bullet points.
 
 # 🙇🏼 Fin.
