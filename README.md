@@ -19,7 +19,7 @@ All of the missing features were associated with categorical variables, so I jus
 
 ### 📊 EDA
 
-Next up, [EDA](2.%EDA.ipynb).
+Next up, [EDA](2.%20EDA.ipynb).
 
 Almost all of my variables were categorical features. I primarily just explored their frequencies across the data and also within each value of my target variable. 
 
